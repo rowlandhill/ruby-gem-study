@@ -52,7 +52,7 @@ However, there are a couple of differences too. For instance, Node modules (exce
 
 ### Your Turn :: Installing Ruby Gems
 
-Fork and clone this repo; then, run each of the commands above from within the repo.
+Fork and clone this repo; then, run each of the commands above from within the repo. Then, just for fun, run `gem install bundler` and look at the output you get.
 
 ## Researching Gems
 ### Where Can I Find Ruby Gems?
