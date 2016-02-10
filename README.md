@@ -66,7 +66,7 @@ There will often be multiple gems that can be used for the same purpose. How can
 - [ ] When the last commit was, and how frequently commits are made.
 - [ ] How many outstanding issues there are (total and as a % of all issues).
 - [ ] Who the collaborators are.
-- [ ] If there are tests (usually found in the `/test` directory) and how extensive they are.
+- [ ] If there are tests (usually found in the `/test` or `/spec` directory) and how extensive they are.
 
 Depending on the gem, there may not necessarily be a lot of documentation available, but if the GitHub project has a wiki set up, that can be a good place to find information. Additionally, many gems have official 'rdoc' documentation; there's a searchable web interface for that documentation at **[RubyDoc.info](http://rubydoc.info)**.
 
