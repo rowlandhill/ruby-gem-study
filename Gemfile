@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
+ruby '2.3.0'
 gem 'devise', '~> 3.5', '>= 3.5.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.1'
 gem 'rspec', '~> 3.3'
