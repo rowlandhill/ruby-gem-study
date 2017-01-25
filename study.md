@@ -19,14 +19,21 @@ A **gem** is a library of Ruby code that you can incorporate into your projects.
 Using an external library allows you to benefit from someone else's work, so
 that you don't need to waste time reinventing the wheel.
 
-Here are a couple of gems that commonly appear in Ruby and Rails projects:
+Here are some gems that commonly appear in Ruby and Ruby on Rails projects:
 
-- `devise`
-- `paperclip`
-- `resque`
-- `rspec`
-- `capybara`
-- `pry-byebug` (a combination of two separate gems, `pry` and `byebug`)
+| Gem | Description |
+| --- | --- |
+| [bcrypt](https://rubygems.org/gems/bcrypt) | Secure hash algorithm. |
+| [capybara](https://rubygems.org/gems/capybara) | Integration testing tool for rack-based web applications. |
+| [devise](https://rubygems.org/gems/devise) | Authentication for Ruby on Rails. |
+| [httparty](https://rubygems.org/gems/httparty) | RESTful web services client. |
+| [paperclip](https://rubygems.org/gems/paperclip) | Upload management for ActiveRecord. |
+| [pry-byebug](https://rubygems.org/gems/pry-byebug) | A combination of two separate gems, `pry` and `byebug` |
+| [resque](https://rubygems.org/gems/resque) | Redis-backed library for creating background jobs. |
+| [rspec](https://rubygems.org/gems/rspec) | Behavior-driven development suite. |
+| [rubocop](https://rubygems.org/gems/rubocop) | Linter for Ruby. |
+| [scss_lint](https://rubygems.org/gems/scss_lint) | Linter for SASS/SCSS. |
+
 
 The jobs these gems do can range from debugging to testing to integrating into
 an API.
