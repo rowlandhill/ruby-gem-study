@@ -46,7 +46,7 @@ command line:
 `gem install resque`
 
 This will download and install the gem that you specify.  In this case it's the
-resque gem.
+`resque` gem.
 
 The second way is to use `bundler` (another gem, which we installed during
 install-fest) and a 'Gemfile', a file containing a list of gems that our project
@@ -67,7 +67,7 @@ There are a lot of similarities between Node modules and Ruby gems.
 
 However, there are a couple of differences too. For instance, Node modules
 (except when using the `-g` flag) get installed within a particular project,
-inside a folder called `node_modules`. Ruby gems, in contrast, will not be
+inside of a directory called `node_modules`. Ruby gems, in contrast, will not be
 installed within the project.
 
 ### Your Turn :: Installing Ruby Gems
