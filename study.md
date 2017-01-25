@@ -61,7 +61,7 @@ There are a lot of similarities between Node modules and Ruby gems.
 
 | Node Module | Ruby Gem |
 | :---------: | :------: |
-| npm install _moduleName_ | gem install _gemName_ |
+| npm install _moduleName_ | gem install _gem_\__name_ |
 | npm install | bundle install |
 | package.json | Gemfile |
 
