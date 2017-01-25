@@ -13,7 +13,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 -   [RubyGems](https://en.wikipedia.org/wiki/RubyGems)
 -   [Gemfiles](http://bundler.io/gemfile.html)
 
-## What is a Gem?
+## What Is a Gem?
 
 A **gem** is a library of Ruby code that you can incorporate into your projects.
 Using an external library allows you to benefit from someone else's work, so
