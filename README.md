@@ -8,7 +8,7 @@
 
 ## Objectives
 
-Students should, at the end of the lesson, be able to:
+Developers should, at the end of the lesson, be able to:
 
 -   Explain what a Ruby Gem is, and how it is similar/different to a Node module.
 -   Look up a gem to solve a particular problem.
