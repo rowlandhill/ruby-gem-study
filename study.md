@@ -115,5 +115,9 @@ alternative. How might you justify this choice of best alternative gem to a
 senior engineer on your team? Explain this below and submit a pull request.
 
 ```md
-<!-- your answer here -->
+Security is a hot-button issue, so the first gem on the list, bcrypt(), was the first
+one I chose.  Some of the gems seem nice, like httparty, but resque seems to be the
+next best choice.  It automates tasks and pushes them to the background so
+developers can prioritize work, but still have things running while they take
+care of more pressing things.
 ```
